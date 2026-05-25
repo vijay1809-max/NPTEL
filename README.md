@@ -1,2 +1,2 @@
- 
-![Certificate](NPTEL%20CERTIFICATE.jpeg)
+_
+![NPTEL-CERTIFICATE](Nptel%202025.png)
